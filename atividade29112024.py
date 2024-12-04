@@ -5,6 +5,8 @@ cpfs = []
 emails = []
 telefones = []
 
+#lalalalalala
+
 # Solicita ao usuário a quantidade de cadastros que deseja fazer
 quantidade = int(input("Quantas pessoas deseja cadastrar? "))
 
